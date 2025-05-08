@@ -1,8 +1,8 @@
 # CFP36-Trayecto-Programador
 
-# Mi Trayecto en Programador 36
+# Trayecto Programador
 
-Actualmente estoy cursando el trayecto de **Programador 36**, donde estoy adquiriendo conocimientos fundamentales en diversas áreas de la programación.
+Actualmente estoy cursando el trayecto de **Programador**, donde estoy adquiriendo conocimientos fundamentales en diversas áreas de la programación.
 
 ## Materias Principales
 
